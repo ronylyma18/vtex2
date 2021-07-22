@@ -1,0 +1,41 @@
+{
+    "produtos":[
+        {
+            "id":1,
+            "photo":"https://a-static.mlcdn.com.br/618x463/iphone-12-apple-256gb-product-red-tela-61-cam-dupla-12mp-ios/magazineluiza/155598800/65ee760f109c26a612ab0902fa5b5a39.jpg",
+           "nome":"Iphone",
+           "description":"Descrição completa",
+           "price":5000
+        },
+        {
+            "id":2,
+            "photo":"https://a-static.mlcdn.com.br/618x463/iphone-12-apple-256gb-product-red-tela-61-cam-dupla-12mp-ios/magazineluiza/155598800/65ee760f109c26a612ab0902fa5b5a39.jpg",
+           "nome":"Xiaiomi",
+           "description":"Descrição completa",
+           "price":2000
+        },
+        {
+            "id":2,
+            "photo":"https://a-static.mlcdn.com.br/618x463/iphone-12-apple-256gb-product-red-tela-61-cam-dupla-12mp-ios/magazineluiza/155598800/65ee760f109c26a612ab0902fa5b5a39.jpg",
+           "nome":"Xiaiomi",
+           "description":"Descrição completa",
+           "price":2000
+        }
+        ,
+        {
+            "id":3,
+            "photo":"https://a-static.mlcdn.com.br/618x463/iphone-12-apple-256gb-product-red-tela-61-cam-dupla-12mp-ios/magazineluiza/155598800/65ee760f109c26a612ab0902fa5b5a39.jpg",
+           "nome":"Xiaiomi",
+           "description":"Descrição completa",
+           "price":2000
+        },
+        {
+            "id":4,
+            "photo":"https://a-static.mlcdn.com.br/618x463/iphone-12-apple-256gb-product-red-tela-61-cam-dupla-12mp-ios/magazineluiza/155598800/65ee760f109c26a612ab0902fa5b5a39.jpg",
+           "nome":"Xiaiomi",
+           "description":"Descrição completa",
+           "price":2000
+        }
+    ]
+    
+    }
